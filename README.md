@@ -1,1 +1,3 @@
-# full-stack-open
+# Full Stack Open
+
+Course from https://fullstackopen.com/en/
